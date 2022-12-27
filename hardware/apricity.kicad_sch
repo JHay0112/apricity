@@ -2237,7 +2237,7 @@
     (uuid efec80d5-3b93-449b-967c-e6308c2f145f)
     (property "Reference" "J1" (id 0) (at 30.48 107.95 0))
     (property "Value" "USB_C_Receptacle_USB2.0" (id 1) (at 30.48 110.49 0))
-    (property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4085" (id 2) (at 34.29 130.81 0)
+    (property "Footprint" "Connector_USB:USB_C_Receptacle_XKB_U262-16XN-4BVC11" (id 2) (at 34.29 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" (id 3) (at 34.29 130.81 0)
@@ -2544,7 +2544,7 @@
       (reference "D19") (unit 1) (value "Inolux_IN-PI554FCH") (footprint "LED_SMD:LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm")
     )
     (path "/efec80d5-3b93-449b-967c-e6308c2f145f"
-      (reference "J1") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_GCT_USB4085")
+      (reference "J1") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_XKB_U262-16XN-4BVC11")
     )
     (path "/0d05b2dd-0847-494b-a812-c82d7fd47262"
       (reference "R1") (unit 1) (value "5.1k") (footprint "Resistor_SMD:R_0805_2012Metric")
