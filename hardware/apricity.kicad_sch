@@ -2890,7 +2890,7 @@
     (property "Value" "Conn_01x03_Male" (id 1) (at 40.64 78.74 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" (id 2) (at 32.385 84.455 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal" (id 2) (at 32.385 84.455 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 32.385 84.455 0)
@@ -3262,7 +3262,7 @@
       (reference "D19") (unit 1) (value "Inolux_IN-PI554FCH") (footprint "LED_SMD:LED_Inolux_IN-PI554FCH_PLCC4_5.0x5.0mm_P3.2mm")
     )
     (path "/eac6142d-6ea4-49f4-a1dd-0829f5302979"
-      (reference "J1") (unit 1) (value "Conn_01x03_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
+      (reference "J1") (unit 1) (value "Conn_01x03_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal")
     )
     (path "/efec80d5-3b93-449b-967c-e6308c2f145f"
       (reference "J2") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_Palconn_UTC16-G")
