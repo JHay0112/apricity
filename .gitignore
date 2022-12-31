@@ -2,3 +2,5 @@
 */apricity-backups/*
 *-cache
 *auto_saved_files*
+*.csv
+*.xml
